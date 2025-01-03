@@ -24,7 +24,7 @@ Here is the step-by-step video tutorial to build this project. You will learn th
 - 🟢 Wrap-Up and Resources
 
 
-[![Next.js plus Webhook](./banner.png)](https://youtu.be/lgyj-cV9NjA "Video")
+[![Next.js get static params](./banner.png)](https://youtu.be/lgyj-cV9NjA "Video")
 
 ## 🏃 Run it Locally
 
